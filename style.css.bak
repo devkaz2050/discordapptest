@@ -192,6 +192,9 @@ img {
 .sidebar__user:hover {
     color: #fff;
     background-color: #40464b;
+	
+  transform: scale(1.2);
+	
 }
 
 .sidebar__user > div {
@@ -468,5 +471,5 @@ img {
 }
 
 .mic:hover, .headphone:hover, .settings:hover {
-    background-color: var(--dark-bg);
+    background-color: #4f4e4c;
 }
